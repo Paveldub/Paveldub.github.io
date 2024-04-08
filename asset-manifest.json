@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f4f6c50.css",
+    "main.js": "/static/js/main.f5beed18.js",
+    "static/media/bg-long-second.png": "/static/media/bg-long-second.0a099b3004ac4143a7bb.png",
+    "static/media/bg-small-second.png": "/static/media/bg-small-second.7980a7f67501bf2b97e7.png",
+    "static/media/back-long.png": "/static/media/back-long.10685f20bbfda9a793c4.png",
+    "static/media/small-bg.png": "/static/media/small-bg.2492037ce4c159380960.png",
+    "static/media/main-bg.png": "/static/media/main-bg.8585bd65dbc734f06b0c.png",
+    "static/media/banner-gradient-mobile.png": "/static/media/banner-gradient-mobile.5325c3c0131124711d23.png",
+    "static/media/earth.png": "/static/media/earth.a7279bf5f6fed097501d.png",
+    "static/media/lato-extrabold-webfont.woff": "/static/media/lato-extrabold-webfont.0f90054e94c9fec4cb22.woff",
+    "static/media/lato-bold-webfont.woff": "/static/media/lato-bold-webfont.df688ff78f6efdc73e6a.woff",
+    "static/media/lato-extrabold-webfont.woff2": "/static/media/lato-extrabold-webfont.a293233032bf37877305.woff2",
+    "static/media/lato-bold-webfont.woff2": "/static/media/lato-bold-webfont.a702df4614d7db494f1a.woff2",
+    "index.html": "/index.html",
+    "main.4f4f6c50.css.map": "/static/css/main.4f4f6c50.css.map",
+    "main.f5beed18.js.map": "/static/js/main.f5beed18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f4f6c50.css",
+    "static/js/main.f5beed18.js"
+  ]
+}
